@@ -14,10 +14,10 @@ public class ControllerLayer {
 
 
 
-    @GetMapping("/api/hello")
-    public String hello(){
-        return "Hello World";
-    }
+//    @GetMapping("/api/hello")
+//    public String hello(){
+//        return "Hello World";
+//    }
 
 //    @GetMapping("/api/login")
 //    public String emailPassword(@RequestParam String email, @RequestParam String password){
